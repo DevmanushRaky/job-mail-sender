@@ -17,7 +17,7 @@ Job Mail Sender is a powerful and easy-to-use platform that allows job seekers t
 **Backend:** Node.js, Express, MongoDB
 **Server:** Deployed on AWS with Nginx
 
-**AWS hosted :** [http://13.235.82.106:5000/](Live preview link)
+**AWS hosted :**http://13.235.82.106:5000/** 
 
 ## 🛠 Installation Guide
 Follow these steps to set up and run this project on your local machine:
@@ -41,7 +41,6 @@ Follow these steps to set up and run this project on your local machine:
    ```env
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_secret_key
    ````
 4. Start the backend server:
    ```sh
